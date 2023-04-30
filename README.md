@@ -1,4 +1,12 @@
 ### Hi there 👋
+- My name is Oleksii 
+- Was dreaming to become a game developer but endedup as **Software Engineer** (And this is even better! 😉)
+- Main technology stack I work with: **Java (Spring, Java 8), SQL (PostgreSQL, MySQL), REST API, Hibernate, EclipseLink, MyBatis**
+- I'm passioned in performance optimization and bug fixing (It makes me feel like Sherlock Holmes🕵️‍ inside Matrix movie)
+- Currently gaining experience in DevOps and cloud technologies such as AWS and GCP
+- 💬 You can open issue for this branch if you have some questions or hereisalexius@gmail.com
+- This is the first version of [my](https://github.com/hereisalexius) **hello-world** branch on GitHiub, so the content may change after a while
+
 
 <!--
 **hereisalexius/hereisalexius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
